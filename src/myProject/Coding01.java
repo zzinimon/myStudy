@@ -1,6 +1,5 @@
 package myProject;
 
-import java.util.ArrayList;
 
 public class Coding01 {
 
