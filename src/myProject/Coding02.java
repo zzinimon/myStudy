@@ -17,7 +17,7 @@ public class Coding02 {
 			if (tmp<0) {tmp=0;res++;continue;}
 			res++;
 		}
-		for (int i = 0; tmp<0; i++) {
+		while (tmp<0) {
 			tmp-=num;
 			res++;
 		}

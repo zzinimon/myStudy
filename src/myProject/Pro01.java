@@ -5,8 +5,8 @@ public class Pro01 {
 	public static void main(String[] args) {
 		int n1=10;
 		int n2=12;
-		System.out.println("3="+sol(10));
-		System.out.println("11="+sol(12));
+		System.out.println("3="+sol(n1));
+		System.out.println("11="+sol(n2));
 	}
 	public static int sol(int n) {
 		int x;

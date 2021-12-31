@@ -11,7 +11,7 @@ public class Coding01 {
 	}
 	public static String solution(String[] library, String message){
 		String res="";
-		char[] x= {};
+//		char[] x= {};
 		String[] y= {};
 		String[] tmp= {};
 		for (int i = 0; i < library.length; i++) {
