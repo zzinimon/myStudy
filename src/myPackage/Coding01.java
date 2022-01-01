@@ -1,4 +1,4 @@
-package myProject;
+package myPackage;
 
 
 public class Coding01 {

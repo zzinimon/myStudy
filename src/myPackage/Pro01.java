@@ -1,4 +1,4 @@
-package myProject;
+package myPackage;
 //나머지가 1이 되는 수 찾기
 public class Pro01 {
 
